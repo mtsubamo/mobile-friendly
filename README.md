@@ -1,5 +1,5 @@
 # mobile-friendly
-search termを基に、検索結果の受けから順にmobile friendlyか判定するシステムです
+search termを基に、検索結果の上から順にmobile friendlyか判定するシステムです
 
 # HOW TO USE
 ## install docker
