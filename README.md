@@ -1,3 +1,4 @@
+# test
 # mobile-friendly
 search termを基に、検索結果の上から順にmobile friendlyか判定するシステムです
 
